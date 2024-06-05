@@ -19,4 +19,4 @@ During this lab, I learned...
 - How to handle a GET HTTP verb
 - More about server-side programming
 
-<img src="code.png" alt="Practice doing route handling width="300">
+<img src="code.png" alt="Practice doing route handling" width="300">
