@@ -2,7 +2,7 @@
 
 
 ## Purpose of the lab
-In lab 4, I got experience creating initial Fastify Node.js web servers and adding routes with query parameters to handle the GET HTTP ver.
+In lab 4, I got experience creating initial Fastify Node.js web servers and adding routes with query parameters to handle the GET HTTP verb.
 
 ## Technologies used 
 - Javascript
